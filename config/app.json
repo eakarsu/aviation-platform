@@ -1,0 +1,33 @@
+{
+  "id": "aviation-platform",
+  "title": "Aviation, drones & airport operations",
+  "buyer": "Aviation and drone operators",
+  "sourceCount": 9,
+  "sources": [
+    "ai-airline-unused-ticket-refund-recovery",
+    "ai-aviation-mro-rotable-warranty-recovery",
+    "AIAerospaceMRO",
+    "AIAirportAirTrafficOperations",
+    "AIAutonomousDroneOperations",
+    "AIClassifytravelersecurity",
+    "AIDroneDeliveryLastMile",
+    "AIInventoryDroneOps",
+    "DroneScheduling"
+  ],
+  "status": "proposed build; not implemented",
+  "canonicalFeatureStatus": "Requires feature-level mapping and workflow migration; source route counts are not feature-completion counts.",
+  "port": 46031,
+  "productName": "Aviation, drones Workspace",
+  "runtimeVersion": "1.0.0",
+  "sourceRoots": [
+    "/Volumes/external/projects/ai-airline-unused-ticket-refund-recovery",
+    "/Volumes/external/projects/ai-aviation-mro-rotable-warranty-recovery",
+    "/Volumes/external/projects/AIAerospaceMRO",
+    "/Volumes/external/projects/AIAirportAirTrafficOperations",
+    "/Volumes/external/projects/AIAutonomousDroneOperations",
+    "/Volumes/external/projects/AIClassifytravelersecurity",
+    "/Volumes/external/projects/AIDroneDeliveryLastMile",
+    "/Volumes/external/projects/AIInventoryDroneOps",
+    "/Volumes/external/projects/DroneScheduling"
+  ]
+}

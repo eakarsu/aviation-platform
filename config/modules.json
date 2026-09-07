@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ai-airline-unused-ticket-refund-recovery",
+    "name": "Airline unused ticket refund recovery",
+    "sourceProject": "ai-airline-unused-ticket-refund-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-aviation-mro-rotable-warranty-recovery",
+    "name": "Aviation mro rotable warranty recovery",
+    "sourceProject": "ai-aviation-mro-rotable-warranty-recovery",
+    "services": []
+  },
+  {
+    "id": "AIAerospaceMRO",
+    "name": "Aerospace mro",
+    "sourceProject": "AIAerospaceMRO",
+    "services": []
+  },
+  {
+    "id": "AIAirportAirTrafficOperations",
+    "name": "Airport air traffic operations",
+    "sourceProject": "AIAirportAirTrafficOperations",
+    "services": []
+  },
+  {
+    "id": "AIAutonomousDroneOperations",
+    "name": "Autonomous drone operations",
+    "sourceProject": "AIAutonomousDroneOperations",
+    "services": []
+  },
+  {
+    "id": "AIClassifytravelersecurity",
+    "name": "Classifytravelersecurity",
+    "sourceProject": "AIClassifytravelersecurity",
+    "services": []
+  },
+  {
+    "id": "AIDroneDeliveryLastMile",
+    "name": "Drone delivery last mile",
+    "sourceProject": "AIDroneDeliveryLastMile",
+    "services": []
+  },
+  {
+    "id": "AIInventoryDroneOps",
+    "name": "Inventory drone ops",
+    "sourceProject": "AIInventoryDroneOps",
+    "services": []
+  },
+  {
+    "id": "DroneScheduling",
+    "name": "Drone scheduling",
+    "sourceProject": "DroneScheduling",
+    "services": []
+  }
+]

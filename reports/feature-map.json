@@ -1,0 +1,2337 @@
+{
+  "mapped": [
+    {
+      "project": "ai-airline-unused-ticket-refund-recovery",
+      "sourceKey": "airline-tmc-agreement-library",
+      "source": "/Volumes/external/projects/ai-airline-unused-ticket-refund-recovery/app.config.mjs",
+      "canonical": "airline-tmc-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-airline-unused-ticket-refund-recovery",
+      "sourceKey": "traveler-trip-registry",
+      "source": "/Volumes/external/projects/ai-airline-unused-ticket-refund-recovery/app.config.mjs",
+      "canonical": "traveler-trip-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-airline-unused-ticket-refund-recovery",
+      "sourceKey": "ticket-exchange-ingestion",
+      "source": "/Volumes/external/projects/ai-airline-unused-ticket-refund-recovery/app.config.mjs",
+      "canonical": "ticket-exchange-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-airline-unused-ticket-refund-recovery",
+      "sourceKey": "coupon-status-reconciliation",
+      "source": "/Volumes/external/projects/ai-airline-unused-ticket-refund-recovery/app.config.mjs",
+      "canonical": "coupon-status-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-airline-unused-ticket-refund-recovery",
+      "sourceKey": "unused-ticket-detection",
+      "source": "/Volumes/external/projects/ai-airline-unused-ticket-refund-recovery/app.config.mjs",
+      "canonical": "unused-ticket-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-airline-unused-ticket-refund-recovery",
+      "sourceKey": "residual-value-calculation",
+      "source": "/Volumes/external/projects/ai-airline-unused-ticket-refund-recovery/app.config.mjs",
+      "canonical": "residual-value-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-airline-unused-ticket-refund-recovery",
+      "sourceKey": "refundability-validation",
+      "source": "/Volumes/external/projects/ai-airline-unused-ticket-refund-recovery/app.config.mjs",
+      "canonical": "refundability-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-airline-unused-ticket-refund-recovery",
+      "sourceKey": "tax-refund-calculation",
+      "source": "/Volumes/external/projects/ai-airline-unused-ticket-refund-recovery/app.config.mjs",
+      "canonical": "tax-refund-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-airline-unused-ticket-refund-recovery",
+      "sourceKey": "waiver-disruption-rules",
+      "source": "/Volumes/external/projects/ai-airline-unused-ticket-refund-recovery/app.config.mjs",
+      "canonical": "waiver-disruption-rules",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-airline-unused-ticket-refund-recovery",
+      "sourceKey": "credit-expiration-alerts",
+      "source": "/Volumes/external/projects/ai-airline-unused-ticket-refund-recovery/app.config.mjs",
+      "canonical": "credit-expiration-alerts",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-airline-unused-ticket-refund-recovery",
+      "sourceKey": "employee-departure-handling",
+      "source": "/Volumes/external/projects/ai-airline-unused-ticket-refund-recovery/app.config.mjs",
+      "canonical": "employee-departure-handling",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-airline-unused-ticket-refund-recovery",
+      "sourceKey": "reuse-exchange-recommendation",
+      "source": "/Volumes/external/projects/ai-airline-unused-ticket-refund-recovery/app.config.mjs",
+      "canonical": "reuse-exchange-recommendation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-airline-unused-ticket-refund-recovery",
+      "sourceKey": "airline-refund-workflow",
+      "source": "/Volumes/external/projects/ai-airline-unused-ticket-refund-recovery/app.config.mjs",
+      "canonical": "airline-refund-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-airline-unused-ticket-refund-recovery",
+      "sourceKey": "cash-credit-reconciliation",
+      "source": "/Volumes/external/projects/ai-airline-unused-ticket-refund-recovery/app.config.mjs",
+      "canonical": "cash-credit-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-airline-unused-ticket-refund-recovery",
+      "sourceKey": "airline-route-analytics",
+      "source": "/Volumes/external/projects/ai-airline-unused-ticket-refund-recovery/app.config.mjs",
+      "canonical": "airline-route-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-airline-unused-ticket-refund-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-airline-unused-ticket-refund-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-airline-unused-ticket-refund-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-airline-unused-ticket-refund-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-aviation-mro-rotable-warranty-recovery",
+      "sourceKey": "component-and-serial-registry",
+      "source": "/Volumes/external/projects/ai-aviation-mro-rotable-warranty-recovery/app.config.mjs",
+      "canonical": "component-and-serial-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-aviation-mro-rotable-warranty-recovery",
+      "sourceKey": "removal-and-installation-events",
+      "source": "/Volumes/external/projects/ai-aviation-mro-rotable-warranty-recovery/app.config.mjs",
+      "canonical": "removal-and-installation-events",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-aviation-mro-rotable-warranty-recovery",
+      "sourceKey": "warranty-entitlement-engine",
+      "source": "/Volumes/external/projects/ai-aviation-mro-rotable-warranty-recovery/app.config.mjs",
+      "canonical": "warranty-entitlement-engine",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-aviation-mro-rotable-warranty-recovery",
+      "sourceKey": "shop-finding-ingestion",
+      "source": "/Volumes/external/projects/ai-aviation-mro-rotable-warranty-recovery/app.config.mjs",
+      "canonical": "shop-finding-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-aviation-mro-rotable-warranty-recovery",
+      "sourceKey": "covered-work-validation",
+      "source": "/Volumes/external/projects/ai-aviation-mro-rotable-warranty-recovery/app.config.mjs",
+      "canonical": "covered-work-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-aviation-mro-rotable-warranty-recovery",
+      "sourceKey": "repair-invoice-audit",
+      "source": "/Volumes/external/projects/ai-aviation-mro-rotable-warranty-recovery/app.config.mjs",
+      "canonical": "repair-invoice-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-aviation-mro-rotable-warranty-recovery",
+      "sourceKey": "exchange-fee-reconciliation",
+      "source": "/Volumes/external/projects/ai-aviation-mro-rotable-warranty-recovery/app.config.mjs",
+      "canonical": "exchange-fee-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-aviation-mro-rotable-warranty-recovery",
+      "sourceKey": "core-return-and-penalty-control",
+      "source": "/Volumes/external/projects/ai-aviation-mro-rotable-warranty-recovery/app.config.mjs",
+      "canonical": "core-return-and-penalty-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-aviation-mro-rotable-warranty-recovery",
+      "sourceKey": "pool-agreement-reconciliation",
+      "source": "/Volumes/external/projects/ai-aviation-mro-rotable-warranty-recovery/app.config.mjs",
+      "canonical": "pool-agreement-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-aviation-mro-rotable-warranty-recovery",
+      "sourceKey": "no-fault-found-analysis",
+      "source": "/Volumes/external/projects/ai-aviation-mro-rotable-warranty-recovery/app.config.mjs",
+      "canonical": "no-fault-found-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-aviation-mro-rotable-warranty-recovery",
+      "sourceKey": "aog-freight-and-service-recovery",
+      "source": "/Volumes/external/projects/ai-aviation-mro-rotable-warranty-recovery/app.config.mjs",
+      "canonical": "aog-freight-and-service-recovery",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-aviation-mro-rotable-warranty-recovery",
+      "sourceKey": "airworthiness-evidence-package",
+      "source": "/Volumes/external/projects/ai-aviation-mro-rotable-warranty-recovery/app.config.mjs",
+      "canonical": "airworthiness-evidence-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-aviation-mro-rotable-warranty-recovery",
+      "sourceKey": "vendor-claim-and-response-workflow",
+      "source": "/Volumes/external/projects/ai-aviation-mro-rotable-warranty-recovery/app.config.mjs",
+      "canonical": "vendor-claim-and-response-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-aviation-mro-rotable-warranty-recovery",
+      "sourceKey": "credit-and-receivable-reconciliation",
+      "source": "/Volumes/external/projects/ai-aviation-mro-rotable-warranty-recovery/app.config.mjs",
+      "canonical": "credit-and-receivable-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-aviation-mro-rotable-warranty-recovery",
+      "sourceKey": "reliability-and-recovery-analytics",
+      "source": "/Volumes/external/projects/ai-aviation-mro-rotable-warranty-recovery/app.config.mjs",
+      "canonical": "reliability-and-recovery-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-aviation-mro-rotable-warranty-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-aviation-mro-rotable-warranty-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-aviation-mro-rotable-warranty-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-aviation-mro-rotable-warranty-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/cost-estimator",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "canonical": "cost-estimator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/predict-maintenance",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "canonical": "predict-maintenance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/technician-matcher",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "canonical": "technician-matcher",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/component-reliability",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "canonical": "component-reliability",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/technician-workload",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "canonical": "technician-workload",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/compliance-calendar",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "canonical": "compliance-calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/etops-release-readiness",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "canonical": "etops-release-readiness",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/ai-history",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "canonical": "history",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/maintenance",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "canonical": "maintenance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/parts",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "canonical": "parts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/compliance",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "canonical": "compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/work-orders",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "canonical": "work-orders",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/inventory",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "canonical": "inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/incidents",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "canonical": "incidents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/technicians",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "canonical": "technicians",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/fleet",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "canonical": "fleet",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/vendors",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "canonical": "vendors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/tool-calibration",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "canonical": "tool-calibration",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/mel-tracking",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "canonical": "mel-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/documents",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "canonical": "documents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/purchase-orders",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "canonical": "purchase-orders",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/audit-log",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/shift-scheduling",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "canonical": "shift-scheduling",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/hangar-management",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "canonical": "hangar-management",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/training-records",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "canonical": "training-records",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/customers",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/warranty-tracking",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "canonical": "warranty-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/ai/compliance-check",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/pages/AITools.js",
+      "canonical": "compliance-check",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/ai/parts-analysis",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/pages/AITools.js",
+      "canonical": "parts-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/ai/safety-analysis",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/pages/AITools.js",
+      "canonical": "safety-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/ai/fleet-optimization",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/pages/AITools.js",
+      "canonical": "fleet-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/ai/mel-analysis",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/pages/AITools.js",
+      "canonical": "mel-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/ai/document-review",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/pages/AITools.js",
+      "canonical": "document-review",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/ai/purchase-analysis",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/pages/AITools.js",
+      "canonical": "purchase-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/ai/anomaly-detect",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/pages/AITools.js",
+      "canonical": "anomaly-detect",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/ai/optimize-shifts",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/pages/AITools.js",
+      "canonical": "optimize-shifts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/ai/training-path",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/pages/AITools.js",
+      "canonical": "training-path",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/ai/fleet-reallocation",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/pages/AITools.js",
+      "canonical": "fleet-reallocation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/predict-maintenance",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/pages/Dashboard.js",
+      "canonical": "predict-maintenance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/technician-matcher",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/pages/Dashboard.js",
+      "canonical": "technician-matcher",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/component-reliability",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/pages/Dashboard.js",
+      "canonical": "component-reliability",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/compliance-calendar",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/pages/Dashboard.js",
+      "canonical": "compliance-calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "sourceKey": "/maintenance",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/pages/Dashboard.js",
+      "canonical": "maintenance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "passenger-experience",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/AIBacklogTools.js",
+      "canonical": "passenger-experience",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "revenue-management",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/AIBacklogTools.js",
+      "canonical": "revenue-management",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "multi-agency",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/AIBacklogTools.js",
+      "canonical": "multi-agency",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "adsb",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/AIBacklogTools.js",
+      "canonical": "adsb",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "faa",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/AIBacklogTools.js",
+      "canonical": "faa",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "airline",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/AIBacklogTools.js",
+      "canonical": "airline",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "noise",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/AIBacklogTools.js",
+      "canonical": "noise",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "emergency-sim",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/AIBacklogTools.js",
+      "canonical": "emergency-sim",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "/gates",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "gates",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "/crews",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "crews",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "/delays",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "delays",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "/baggage",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "baggage",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "/runways",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "runways",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "/flights",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "flights",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "/weather",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "weather",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "/incidents",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "incidents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "/maintenance",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "maintenance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "/statistics",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "statistics",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "/ai/gate-conflicts",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "gate-conflicts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "/ai/connections",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "/ai/predictive-maintenance",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "predictive-maintenance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "/ai/shift-handover",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "shift-handover",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "/ai/notam-briefing",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "notam-briefing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "/ai/runway-simulator",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "runway-simulator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "/ai/sustainability",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "sustainability",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "/ai/history",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "history",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "/ai/traffic-forecast",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "traffic-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "sourceKey": "/ai/emergency-response",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "emergency-response",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/drones",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "drones",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/fleet-tracking",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "fleet-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/mission-logs",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "mission-logs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/ai-mission-stream",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "mission-stream",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/flight-plans",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "flight-plans",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/missions",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "missions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/inspections",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "inspections",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/deliveries",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "deliveries",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/agriculture",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "agriculture",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/surveillance",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "surveillance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/maintenance",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "maintenance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/weather",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "weather",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/routes",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "routes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/anomalies",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "anomalies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/compliance",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/clients",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/invoices",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "billing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/analytics",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/flight-analysis",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "flight-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/pilots",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "pilots",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/batteries",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "batteries",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/inventory",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/incidents",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "incidents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/checklists",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "checklists",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/documents",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "documents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/geofences",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "geofences",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/equipment",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/projects",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "matters",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/audit-logs",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/notifications",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/landing-zones",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "landing-zones",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/training",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "training",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/insurance",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "insurance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/contracts",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "contracts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/expenses",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "expenses",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/shifts",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "shifts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/emergency-protocols",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "emergency-protocols",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/communication-logs",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "communication-logs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "/ground-stations",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "ground-stations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Fleet Management",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "drones",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Flight Planning",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "flight-plans",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Mission Control",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "missions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Inspection Services",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "inspection-services",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Delivery Management",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "deliveries",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Agriculture Operations",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "agriculture-operations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Surveillance & Security",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "surveillance-security",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Maintenance & Repairs",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "maintenance-repairs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Weather Intelligence",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "weather-intelligence",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Route Optimization",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "routes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Anomaly Detection",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "anomalies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Compliance & Regulations",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "compliance-regulations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Client Management",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "client-management",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Billing & Invoicing",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "billing-invoicing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Operations Analytics",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "operations-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "AI Flight Analysis",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "flight-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Pilot Management",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "pilots",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Battery Management",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "batteries",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Parts Inventory",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "parts-inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Incident Reports",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "incident-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Checklists",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "checklists",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Document Center",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "document-center",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Geofence Management",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "geofence-management",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Payloads & Sensors",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Project Management",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "project-management",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Audit Log",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Notifications",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Landing Zones",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "landing-zones",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Training Records",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "training",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Insurance Policies",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "insurance-policies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Contract Management",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "contract-management",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Expense Tracking",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "expenses",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Shift Management",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "shifts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Emergency Protocols",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "emergency-protocols",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Communication Logs",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "communication-logs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "Ground Control Stations",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations/frontend/src/pages/FeaturePage.js",
+      "canonical": "ground-control-stations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "sourceKey": "ai-autonomy",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations",
+      "canonical": "autonomy",
+      "kind": "route"
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "sourceKey": "/alerts",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity/frontend/src/App.jsx",
+      "canonical": "alerts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "sourceKey": "/incidents",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity/frontend/src/App.jsx",
+      "canonical": "incident-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "sourceKey": "/threats",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity/frontend/src/App.jsx",
+      "canonical": "threats",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "sourceKey": "/travelers",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity/frontend/src/App.jsx",
+      "canonical": "travelers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "sourceKey": "/trips",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity/frontend/src/App.jsx",
+      "canonical": "trips",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "sourceKey": "/destinations",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity/frontend/src/App.jsx",
+      "canonical": "destinations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "sourceKey": "/advisories",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity/frontend/src/App.jsx",
+      "canonical": "advisories",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "sourceKey": "/assessments",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity/frontend/src/App.jsx",
+      "canonical": "assessments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "sourceKey": "/contacts",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity/frontend/src/App.jsx",
+      "canonical": "contacts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "sourceKey": "/templates",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity/frontend/src/App.jsx",
+      "canonical": "templates",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "sourceKey": "/zones",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity/frontend/src/App.jsx",
+      "canonical": "zones",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "sourceKey": "/sos",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity/frontend/src/App.jsx",
+      "canonical": "sos",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "sourceKey": "/geofence",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity/frontend/src/App.jsx",
+      "canonical": "geofence",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "sourceKey": "/real-time-threat",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity/frontend/src/App.jsx",
+      "canonical": "real-time-threat",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "sourceKey": "/evacuation-planner",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity/frontend/src/App.jsx",
+      "canonical": "evacuation-planner",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "sourceKey": "/medical-risk",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity/frontend/src/App.jsx",
+      "canonical": "medical-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "sourceKey": "/cyber-security",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity/frontend/src/App.jsx",
+      "canonical": "cyber-security",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "sourceKey": "/itinerary-risk-score",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity/frontend/src/App.jsx",
+      "canonical": "itinerary-risk-score",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "sourceKey": "/exports",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity/frontend/src/App.jsx",
+      "canonical": "exports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "sourceKey": "/notifications",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity/frontend/src/App.jsx",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "sourceKey": "/webhooks",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity/frontend/src/App.jsx",
+      "canonical": "webhooks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "sourceKey": "/traveler-watchlist-correlation",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity/frontend/src/App.jsx",
+      "canonical": "traveler-watchlist-correlation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/drones",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "drones",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/batteries",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "batteries",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/flights",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "flights",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/missions",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "missions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/customers",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/packages",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "packages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/depots",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "depots",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/vertiports",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "vertiports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/pilots",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "pilots",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/observers",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "observers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/regulatory-approvals",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "regulatory-approvals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/airspace-zones",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "airspace-zones",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/weather-briefs",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "weather-briefs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/maintenance-logs",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "maintenance-logs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/incidents",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "incidents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/route-corridors",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "route-corridors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/payload-specs",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "payload-specs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/audit-log",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/ai/route-corridor-plan",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "route-corridor-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/ai/weather-flight-window",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "weather-flight-window",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/ai/mission-brief",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "mission-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/ai/anomaly-triage",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "anomaly-triage",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/ai/executive-brief",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "executive-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/ai/payload-weight-optimize",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "payload-weight-optimize",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/ai/battery-cycle-prognostic",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "battery-cycle-prognostic",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/ai/regulatory-checklist",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "regulatory-checklist",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/ai/pilot-shift-schedule",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "pilot-shift-schedule",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/ai/ground-observer-plan",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "ground-observer-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/ai/conflict-airspace-detect",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "conflict-airspace-detect",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/ai/customer-comms-draft",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "customer-comms-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/ai/vertiport-capacity-plan",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "vertiport-capacity-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/ai/contingency-landing-plan",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "contingency-landing-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/ai/incident-post-mortem",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "incident-post-mortem",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "/ai/vendor-quality-score",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile/frontend/src/pages/Dashboard.js",
+      "canonical": "vendor-quality-score",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "part135-records",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile",
+      "canonical": "part135-records",
+      "kind": "route"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "vertiport-slots",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile",
+      "canonical": "vertiport-slots",
+      "kind": "route"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "ai/customer-eta-narrate",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile",
+      "canonical": "customer-eta-narrate",
+      "kind": "route"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "ai/weight-balance-advise",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile",
+      "canonical": "weight-balance-advise",
+      "kind": "route"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "ai/delivery-window-predict",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile",
+      "canonical": "delivery-window-predict",
+      "kind": "route"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "ai/notam-aware-reroute",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile",
+      "canonical": "notam-aware-reroute",
+      "kind": "route"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "autonomy-advisory",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile",
+      "canonical": "autonomy-advisory",
+      "kind": "route"
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "sourceKey": "feeds-admin",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile",
+      "canonical": "feeds-admin",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "/warehouses",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps/frontend/src/pages/Dashboard.js",
+      "canonical": "warehouses",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "/drones",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps/frontend/src/pages/Dashboard.js",
+      "canonical": "drones",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "/missions",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps/frontend/src/pages/Dashboard.js",
+      "canonical": "missions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "/scan-results",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps/frontend/src/pages/Dashboard.js",
+      "canonical": "scan-results",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "/discrepancies",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps/frontend/src/pages/Dashboard.js",
+      "canonical": "discrepancies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "/zones",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps/frontend/src/pages/Dashboard.js",
+      "canonical": "zones",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "/sku-master",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps/frontend/src/pages/Dashboard.js",
+      "canonical": "sku-master",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "/wms-snapshots",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps/frontend/src/pages/Dashboard.js",
+      "canonical": "wms-snapshots",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "/work-orders",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps/frontend/src/pages/Dashboard.js",
+      "canonical": "work-orders",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "/maintenance-events",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps/frontend/src/pages/Dashboard.js",
+      "canonical": "maintenance-events",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "/telemetry",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps/frontend/src/pages/Dashboard.js",
+      "canonical": "telemetry",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "/ai/drone-mission-plan",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps/frontend/src/pages/Dashboard.js",
+      "canonical": "drone-mission-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "/ai/sku-reconcile",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps/frontend/src/pages/Dashboard.js",
+      "canonical": "sku-reconcile",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "/ai/maintenance-forecast",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps/frontend/src/pages/Dashboard.js",
+      "canonical": "maintenance-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "/ai/anomaly-classify",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps/frontend/src/pages/Dashboard.js",
+      "canonical": "anomaly-classify",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "/ai/route-optimizer",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps/frontend/src/pages/Dashboard.js",
+      "canonical": "route-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "/ai/demand-forecast",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps/frontend/src/pages/Dashboard.js",
+      "canonical": "demand-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "/ai/swarm-coordinator",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps/frontend/src/pages/Dashboard.js",
+      "canonical": "swarm-coordinator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "/ai/exception-routing",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps/frontend/src/pages/Dashboard.js",
+      "canonical": "exception-routing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "wb/live-map",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps",
+      "canonical": "wb-live-map",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "wb/discrepancy-inbox",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps",
+      "canonical": "wb-discrepancy-inbox",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "ai/mis-pick-detect",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps",
+      "canonical": "mis-pick-detect",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "ai/slot-occupancy-forecast",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps",
+      "canonical": "slot-occupancy-forecast",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "ai/anomaly-narrate",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps",
+      "canonical": "anomaly-narrate",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "ai/scan-failure-rca",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps",
+      "canonical": "scan-failure-rca",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "ai/photo-damage-classify",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps",
+      "canonical": "photo-damage-classify",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "scan-schedules",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps",
+      "canonical": "scan-schedules",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "audit-log",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps",
+      "canonical": "audit",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "wms-live",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps",
+      "canonical": "wms-live",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "scan-proofs",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps",
+      "canonical": "scan-proofs",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "cross-dc-reconciliations",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps",
+      "canonical": "cross-dc-reconciliations",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "sourceKey": "technician-dispatches",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps",
+      "canonical": "technician-dispatches",
+      "kind": "route"
+    },
+    {
+      "project": "DroneScheduling",
+      "sourceKey": "DroneScheduling",
+      "source": "/Volumes/external/projects/DroneScheduling",
+      "canonical": "drone-scheduling",
+      "kind": "source-workflow"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "ai-airline-unused-ticket-refund-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-airline-unused-ticket-refund-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-aviation-mro-rotable-warranty-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-aviation-mro-rotable-warranty-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "key": "/ai-tools",
+      "source": "/Volumes/external/projects/AIAerospaceMRO/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIAerospaceMRO",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIAerospaceMRO",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIAerospaceMRO",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAerospaceMRO",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/AIAerospaceMRO",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIAirportAirTrafficOperations",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAirportAirTrafficOperations",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "key": "extensions",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIAutonomousDroneOperations",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutonomousDroneOperations",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIClassifytravelersecurity",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClassifytravelersecurity",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIDroneDeliveryLastMile",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDroneDeliveryLastMile",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIInventoryDroneOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInventoryDroneOps",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "feature": "airline-tmc-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "traveler-trip-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "ticket-exchange-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "coupon-status-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "unused-ticket-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "residual-value-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "refundability-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tax-refund-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "waiver-disruption-rules",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-expiration-alerts",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "employee-departure-handling",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "reuse-exchange-recommendation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "airline-refund-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-credit-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "airline-route-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "component-and-serial-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "removal-and-installation-events",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "warranty-entitlement-engine",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "shop-finding-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "covered-work-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "repair-invoice-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "exchange-fee-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "core-return-and-penalty-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "pool-agreement-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "no-fault-found-analysis",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "aog-freight-and-service-recovery",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "airworthiness-evidence-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "vendor-claim-and-response-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-and-receivable-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "reliability-and-recovery-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "project": "DroneScheduling",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    }
+  ]
+}

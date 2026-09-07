@@ -1,0 +1,9 @@
+{
+  "app": "aviation-platform",
+  "features": 229,
+  "sourceApps": 9,
+  "calculatorEngines": 0,
+  "registryHash": "9e899ad262e246e41a89826b6b12821f14db27e648cc017b370c24a177bee576",
+  "builtAt": "2026-09-07T22:05:49.968Z",
+  "status": "built"
+}

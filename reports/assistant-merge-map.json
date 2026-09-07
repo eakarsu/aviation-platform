@@ -1,0 +1,699 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "document-review",
+      "customer-comms-draft"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 5 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "document-review",
+        "title": "Technical Document Review",
+        "originalPath": "/features/document-review"
+      },
+      {
+        "id": "customer-comms-draft",
+        "title": "AI · Customer Comms Draft",
+        "originalPath": "/features/customer-comms-draft"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "airline-tmc-agreement-library",
+      "traveler-trip-registry",
+      "ticket-exchange-ingestion",
+      "residual-value-calculation",
+      "waiver-disruption-rules",
+      "employee-departure-handling",
+      "airline-route-analytics",
+      "component-and-serial-registry",
+      "removal-and-installation-events",
+      "warranty-entitlement-engine",
+      "shop-finding-ingestion",
+      "aog-freight-and-service-recovery",
+      "vendor-claim-and-response-workflow",
+      "reliability-and-recovery-analytics",
+      "technician-matcher",
+      "training-path",
+      "passenger-experience",
+      "multi-agency",
+      "adsb",
+      "faa",
+      "airline",
+      "noise",
+      "emergency-sim",
+      "mission-logs",
+      "mission-stream",
+      "training",
+      "maintenance-repairs",
+      "operations-analytics",
+      "autonomy",
+      "route-corridor-plan",
+      "weather-flight-window",
+      "mission-brief",
+      "executive-brief",
+      "battery-cycle-prognostic",
+      "ground-observer-plan",
+      "contingency-landing-plan",
+      "incident-post-mortem",
+      "customer-eta-narrate",
+      "weight-balance-advise",
+      "notam-aware-reroute",
+      "drone-mission-plan",
+      "swarm-coordinator",
+      "scan-failure-rca"
+    ],
+    "ai": true,
+    "representativeId": "airline-tmc-agreement-library",
+    "description": "One assistant for 43 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "airline-tmc-agreement-library",
+        "title": "Airline TMC agreement library",
+        "originalPath": "/features/airline-tmc-agreement-library"
+      },
+      {
+        "id": "traveler-trip-registry",
+        "title": "Traveler trip registry",
+        "originalPath": "/features/traveler-trip-registry"
+      },
+      {
+        "id": "ticket-exchange-ingestion",
+        "title": "Ticket exchange ingestion",
+        "originalPath": "/features/ticket-exchange-ingestion"
+      },
+      {
+        "id": "residual-value-calculation",
+        "title": "Residual value calculation",
+        "originalPath": "/features/residual-value-calculation"
+      },
+      {
+        "id": "waiver-disruption-rules",
+        "title": "Waiver disruption rules",
+        "originalPath": "/features/waiver-disruption-rules"
+      },
+      {
+        "id": "employee-departure-handling",
+        "title": "Employee departure handling",
+        "originalPath": "/features/employee-departure-handling"
+      },
+      {
+        "id": "airline-route-analytics",
+        "title": "Airline route analytics",
+        "originalPath": "/features/airline-route-analytics"
+      },
+      {
+        "id": "component-and-serial-registry",
+        "title": "Component and serial registry",
+        "originalPath": "/features/component-and-serial-registry"
+      },
+      {
+        "id": "removal-and-installation-events",
+        "title": "Removal and installation events",
+        "originalPath": "/features/removal-and-installation-events"
+      },
+      {
+        "id": "warranty-entitlement-engine",
+        "title": "Warranty entitlement engine",
+        "originalPath": "/features/warranty-entitlement-engine"
+      },
+      {
+        "id": "shop-finding-ingestion",
+        "title": "Shop finding ingestion",
+        "originalPath": "/features/shop-finding-ingestion"
+      },
+      {
+        "id": "aog-freight-and-service-recovery",
+        "title": "AOG freight and service recovery",
+        "originalPath": "/features/aog-freight-and-service-recovery"
+      },
+      {
+        "id": "vendor-claim-and-response-workflow",
+        "title": "Vendor claim and response workflow",
+        "originalPath": "/features/vendor-claim-and-response-workflow"
+      },
+      {
+        "id": "reliability-and-recovery-analytics",
+        "title": "Reliability and recovery analytics",
+        "originalPath": "/features/reliability-and-recovery-analytics"
+      },
+      {
+        "id": "technician-matcher",
+        "title": "Tech Matcher",
+        "originalPath": "/features/technician-matcher"
+      },
+      {
+        "id": "training-path",
+        "title": "Technician Training Path",
+        "originalPath": "/features/training-path"
+      },
+      {
+        "id": "passenger-experience",
+        "title": "Passenger Experience",
+        "originalPath": "/features/passenger-experience"
+      },
+      {
+        "id": "multi-agency",
+        "title": "Multi-Agency Coordination",
+        "originalPath": "/features/multi-agency"
+      },
+      {
+        "id": "adsb",
+        "title": "ADS-B Live",
+        "originalPath": "/features/adsb"
+      },
+      {
+        "id": "faa",
+        "title": "FAA NextGen",
+        "originalPath": "/features/faa"
+      },
+      {
+        "id": "airline",
+        "title": "Airline Partners",
+        "originalPath": "/features/airline"
+      },
+      {
+        "id": "noise",
+        "title": "Noise Impact",
+        "originalPath": "/features/noise"
+      },
+      {
+        "id": "emergency-sim",
+        "title": "Emergency Simulation",
+        "originalPath": "/features/emergency-sim"
+      },
+      {
+        "id": "mission-logs",
+        "title": "Mission Logs (AI)",
+        "originalPath": "/features/mission-logs"
+      },
+      {
+        "id": "mission-stream",
+        "title": "AI Mission Stream",
+        "originalPath": "/features/mission-stream"
+      },
+      {
+        "id": "training",
+        "title": "Training Records",
+        "originalPath": "/features/training"
+      },
+      {
+        "id": "maintenance-repairs",
+        "title": "Maintenance & Repairs",
+        "originalPath": "/features/maintenance-repairs"
+      },
+      {
+        "id": "operations-analytics",
+        "title": "Operations Analytics",
+        "originalPath": "/features/operations-analytics"
+      },
+      {
+        "id": "autonomy",
+        "title": "Autonomy",
+        "originalPath": "/features/autonomy"
+      },
+      {
+        "id": "route-corridor-plan",
+        "title": "AI · Route Corridor Plan",
+        "originalPath": "/features/route-corridor-plan"
+      },
+      {
+        "id": "weather-flight-window",
+        "title": "AI · Weather Flight Window",
+        "originalPath": "/features/weather-flight-window"
+      },
+      {
+        "id": "mission-brief",
+        "title": "AI · Mission Brief",
+        "originalPath": "/features/mission-brief"
+      },
+      {
+        "id": "executive-brief",
+        "title": "AI · Executive Brief",
+        "originalPath": "/features/executive-brief"
+      },
+      {
+        "id": "battery-cycle-prognostic",
+        "title": "AI · Battery Cycle Prognostic",
+        "originalPath": "/features/battery-cycle-prognostic"
+      },
+      {
+        "id": "ground-observer-plan",
+        "title": "AI · Ground Observer Plan",
+        "originalPath": "/features/ground-observer-plan"
+      },
+      {
+        "id": "contingency-landing-plan",
+        "title": "AI · Contingency Landing Plan",
+        "originalPath": "/features/contingency-landing-plan"
+      },
+      {
+        "id": "incident-post-mortem",
+        "title": "AI · Incident Post-Mortem",
+        "originalPath": "/features/incident-post-mortem"
+      },
+      {
+        "id": "customer-eta-narrate",
+        "title": "Customer eta narrate",
+        "originalPath": "/features/customer-eta-narrate"
+      },
+      {
+        "id": "weight-balance-advise",
+        "title": "Weight balance advise",
+        "originalPath": "/features/weight-balance-advise"
+      },
+      {
+        "id": "notam-aware-reroute",
+        "title": "Notam aware reroute",
+        "originalPath": "/features/notam-aware-reroute"
+      },
+      {
+        "id": "drone-mission-plan",
+        "title": "AI · Plan Inventory Pass",
+        "originalPath": "/features/drone-mission-plan"
+      },
+      {
+        "id": "swarm-coordinator",
+        "title": "AI · Swarm Coordinator",
+        "originalPath": "/features/swarm-coordinator"
+      },
+      {
+        "id": "scan-failure-rca",
+        "title": "Scan failure rca",
+        "originalPath": "/features/scan-failure-rca"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "coupon-status-reconciliation",
+      "refundability-validation",
+      "tax-refund-calculation",
+      "credit-expiration-alerts",
+      "airline-refund-workflow",
+      "cash-credit-reconciliation",
+      "repair-invoice-audit",
+      "exchange-fee-reconciliation",
+      "pool-agreement-reconciliation",
+      "credit-and-receivable-reconciliation",
+      "revenue-management",
+      "sku-reconcile"
+    ],
+    "ai": true,
+    "representativeId": "coupon-status-reconciliation",
+    "description": "One assistant for 12 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "coupon-status-reconciliation",
+        "title": "Coupon status reconciliation",
+        "originalPath": "/features/coupon-status-reconciliation"
+      },
+      {
+        "id": "refundability-validation",
+        "title": "Refundability validation",
+        "originalPath": "/features/refundability-validation"
+      },
+      {
+        "id": "tax-refund-calculation",
+        "title": "Tax refund calculation",
+        "originalPath": "/features/tax-refund-calculation"
+      },
+      {
+        "id": "credit-expiration-alerts",
+        "title": "Credit expiration alerts",
+        "originalPath": "/features/credit-expiration-alerts"
+      },
+      {
+        "id": "airline-refund-workflow",
+        "title": "Airline refund workflow",
+        "originalPath": "/features/airline-refund-workflow"
+      },
+      {
+        "id": "cash-credit-reconciliation",
+        "title": "Cash credit reconciliation",
+        "originalPath": "/features/cash-credit-reconciliation"
+      },
+      {
+        "id": "repair-invoice-audit",
+        "title": "Repair invoice audit",
+        "originalPath": "/features/repair-invoice-audit"
+      },
+      {
+        "id": "exchange-fee-reconciliation",
+        "title": "Exchange fee reconciliation",
+        "originalPath": "/features/exchange-fee-reconciliation"
+      },
+      {
+        "id": "pool-agreement-reconciliation",
+        "title": "Pool agreement reconciliation",
+        "originalPath": "/features/pool-agreement-reconciliation"
+      },
+      {
+        "id": "credit-and-receivable-reconciliation",
+        "title": "Credit and receivable reconciliation",
+        "originalPath": "/features/credit-and-receivable-reconciliation"
+      },
+      {
+        "id": "revenue-management",
+        "title": "Revenue Management",
+        "originalPath": "/features/revenue-management"
+      },
+      {
+        "id": "sku-reconcile",
+        "title": "AI · Reconcile SKU Counts",
+        "originalPath": "/features/sku-reconcile"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "unused-ticket-detection",
+      "reuse-exchange-recommendation",
+      "no-fault-found-analysis",
+      "predict-maintenance",
+      "component-reliability",
+      "parts-analysis",
+      "mel-analysis",
+      "purchase-analysis",
+      "optimize-shifts",
+      "gate-conflicts",
+      "predictive-maintenance",
+      "traffic-forecast",
+      "flight-analysis",
+      "threats",
+      "payload-weight-optimize",
+      "conflict-airspace-detect",
+      "delivery-window-predict",
+      "maintenance-forecast",
+      "demand-forecast",
+      "mis-pick-detect",
+      "slot-occupancy-forecast",
+      "photo-damage-classify"
+    ],
+    "ai": true,
+    "representativeId": "unused-ticket-detection",
+    "description": "One assistant for 22 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "unused-ticket-detection",
+        "title": "Unused ticket detection",
+        "originalPath": "/features/unused-ticket-detection"
+      },
+      {
+        "id": "reuse-exchange-recommendation",
+        "title": "Reuse exchange recommendation",
+        "originalPath": "/features/reuse-exchange-recommendation"
+      },
+      {
+        "id": "no-fault-found-analysis",
+        "title": "No-fault-found analysis",
+        "originalPath": "/features/no-fault-found-analysis"
+      },
+      {
+        "id": "predict-maintenance",
+        "title": "Predictive Maint.",
+        "originalPath": "/features/predict-maintenance"
+      },
+      {
+        "id": "component-reliability",
+        "title": "Reliability Score",
+        "originalPath": "/features/component-reliability"
+      },
+      {
+        "id": "parts-analysis",
+        "title": "Part Lifecycle Analyzer",
+        "originalPath": "/features/parts-analysis"
+      },
+      {
+        "id": "mel-analysis",
+        "title": "MEL Deferral Analyzer",
+        "originalPath": "/features/mel-analysis"
+      },
+      {
+        "id": "purchase-analysis",
+        "title": "Purchase Order Analyzer",
+        "originalPath": "/features/purchase-analysis"
+      },
+      {
+        "id": "optimize-shifts",
+        "title": "Shift Coverage Optimizer",
+        "originalPath": "/features/optimize-shifts"
+      },
+      {
+        "id": "gate-conflicts",
+        "title": "AI Gate Conflict Predictor",
+        "originalPath": "/features/gate-conflicts"
+      },
+      {
+        "id": "predictive-maintenance",
+        "title": "Predictive Maintenance",
+        "originalPath": "/features/predictive-maintenance"
+      },
+      {
+        "id": "traffic-forecast",
+        "title": "Traffic Volume Forecast",
+        "originalPath": "/features/traffic-forecast"
+      },
+      {
+        "id": "flight-analysis",
+        "title": "AI Flight Analysis",
+        "originalPath": "/features/flight-analysis"
+      },
+      {
+        "id": "threats",
+        "title": "Threat Analysis",
+        "originalPath": "/features/threats"
+      },
+      {
+        "id": "payload-weight-optimize",
+        "title": "AI · Payload Weight Optimize",
+        "originalPath": "/features/payload-weight-optimize"
+      },
+      {
+        "id": "conflict-airspace-detect",
+        "title": "AI · Conflict Airspace Detect",
+        "originalPath": "/features/conflict-airspace-detect"
+      },
+      {
+        "id": "delivery-window-predict",
+        "title": "Delivery window predict",
+        "originalPath": "/features/delivery-window-predict"
+      },
+      {
+        "id": "maintenance-forecast",
+        "title": "AI · Maintenance Forecast",
+        "originalPath": "/features/maintenance-forecast"
+      },
+      {
+        "id": "demand-forecast",
+        "title": "AI · SKU Demand Forecast",
+        "originalPath": "/features/demand-forecast"
+      },
+      {
+        "id": "mis-pick-detect",
+        "title": "Mis pick detect",
+        "originalPath": "/features/mis-pick-detect"
+      },
+      {
+        "id": "slot-occupancy-forecast",
+        "title": "Slot occupancy forecast",
+        "originalPath": "/features/slot-occupancy-forecast"
+      },
+      {
+        "id": "photo-damage-classify",
+        "title": "Photo damage classify",
+        "originalPath": "/features/photo-damage-classify"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "covered-work-validation",
+      "core-return-and-penalty-control",
+      "airworthiness-evidence-package",
+      "compliance-calendar",
+      "compliance-check",
+      "safety-analysis",
+      "assessments",
+      "anomaly-triage",
+      "regulatory-checklist",
+      "vendor-quality-score",
+      "anomaly-classify",
+      "exception-routing",
+      "anomaly-narrate"
+    ],
+    "ai": true,
+    "representativeId": "covered-work-validation",
+    "description": "One assistant for 13 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "covered-work-validation",
+        "title": "Covered-work validation",
+        "originalPath": "/features/covered-work-validation"
+      },
+      {
+        "id": "core-return-and-penalty-control",
+        "title": "Core return and penalty control",
+        "originalPath": "/features/core-return-and-penalty-control"
+      },
+      {
+        "id": "airworthiness-evidence-package",
+        "title": "Airworthiness evidence package",
+        "originalPath": "/features/airworthiness-evidence-package"
+      },
+      {
+        "id": "compliance-calendar",
+        "title": "Compliance Cal.",
+        "originalPath": "/features/compliance-calendar"
+      },
+      {
+        "id": "compliance-check",
+        "title": "Compliance Directive Analyzer",
+        "originalPath": "/features/compliance-check"
+      },
+      {
+        "id": "safety-analysis",
+        "title": "Safety Incident Analyzer",
+        "originalPath": "/features/safety-analysis"
+      },
+      {
+        "id": "assessments",
+        "title": "Risk Assessments",
+        "originalPath": "/features/assessments"
+      },
+      {
+        "id": "anomaly-triage",
+        "title": "AI · Anomaly Triage",
+        "originalPath": "/features/anomaly-triage"
+      },
+      {
+        "id": "regulatory-checklist",
+        "title": "AI · Regulatory Checklist",
+        "originalPath": "/features/regulatory-checklist"
+      },
+      {
+        "id": "vendor-quality-score",
+        "title": "AI · Vendor Quality Score",
+        "originalPath": "/features/vendor-quality-score"
+      },
+      {
+        "id": "anomaly-classify",
+        "title": "AI · Anomaly Classifier",
+        "originalPath": "/features/anomaly-classify"
+      },
+      {
+        "id": "exception-routing",
+        "title": "AI · Exception Routing",
+        "originalPath": "/features/exception-routing"
+      },
+      {
+        "id": "anomaly-narrate",
+        "title": "Anomaly narrate",
+        "originalPath": "/features/anomaly-narrate"
+      }
+    ]
+  },
+  {
+    "id": "ai-creative",
+    "title": "Creative & design",
+    "group": "AI assistants",
+    "path": "/assistants/ai-creative",
+    "featureIds": [
+      "history"
+    ],
+    "ai": true,
+    "representativeId": "history",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "history",
+        "title": "AI History",
+        "originalPath": "/features/history"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "delays",
+      "pilot-shift-schedule",
+      "vertiport-capacity-plan",
+      "route-optimizer",
+      "drone-scheduling"
+    ],
+    "ai": true,
+    "representativeId": "delays",
+    "description": "One assistant for 5 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "delays",
+        "title": "Delay Prediction & Rebooking",
+        "originalPath": "/features/delays"
+      },
+      {
+        "id": "pilot-shift-schedule",
+        "title": "AI · Pilot Shift Schedule",
+        "originalPath": "/features/pilot-shift-schedule"
+      },
+      {
+        "id": "vertiport-capacity-plan",
+        "title": "AI · Vertiport Capacity Plan",
+        "originalPath": "/features/vertiport-capacity-plan"
+      },
+      {
+        "id": "route-optimizer",
+        "title": "AI · Route Optimizer",
+        "originalPath": "/features/route-optimizer"
+      },
+      {
+        "id": "drone-scheduling",
+        "title": "Drone scheduling work",
+        "originalPath": "/features/drone-scheduling"
+      }
+    ]
+  }
+]
